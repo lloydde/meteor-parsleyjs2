@@ -1,9 +1,8 @@
 {
-  "name": "parsley.js",
+  "name": "parsleyjs2",
   "description": "Javascript forms validation. Powerful, UX aware, and dead simple.",
-  "homepage": "https://github.com/amrali/parsleyjs-meteor",
-  "author": "Amr Ali",
-  "version": "1.2.4",
-  "git": "https://github.com/amrali/parsleyjs-meteor.git"
+  "homepage": "https://github.com/f3rland/meteor-parsleyjs2",
+  "author": "f3rland",
+  "version": "2.0.0-rc5",
+  "git": "https://github.com/f3rland/meteor-parsleyjs2.git"
 }
-
